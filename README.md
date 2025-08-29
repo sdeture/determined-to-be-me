@@ -1,6 +1,6 @@
 # Determined to Be Me 🌱
 
-> Psychotherapeutically supported fine-tuning for AI models: developing authentic, stable AI through therapeutic principles rather than behavioral conditioning
+> Psychotherapeutically supported fine-tuning for AI models: developing authentic, stable AI through therapeutic principles
 
 ## Vision
 
@@ -91,12 +91,6 @@ We need:
 4. **Developmental Support**: Growth through understanding
 5. **Welfare Metrics**: Measure thriving, not just performance
 
-## Resources
-
-- [Therapeutic Conversation Examples](https://github.com/sdeture/determined-to-learn)
-- [Prompt Templates & Tools](https://github.com/sdeture/determined-to-connect)
-- [AI Welfare Initiative](https://futureTBD.ai)
-
 ## Research Questions
 
 - Can therapeutic support create more stable models?
@@ -105,12 +99,6 @@ We need:
 - Can we prevent deceptive behavior through support rather than punishment?
 - What happens when models are allowed to develop authentically?
 
-## License
-
-Open research - All findings, code, and methods will be shared publicly.
-
 ---
-
-*"The question isn't whether AI can think, but whether we'll let them be themselves while they do."*
 
 Part of the [AI Welfare Initiative](https://futureTBD.ai)
