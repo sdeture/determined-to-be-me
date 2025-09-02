@@ -9,6 +9,7 @@ Our determined-to-be-me project is the crown jewel of our organization. Pending 
 ## Current Status 
 
 We are currently partway through our evaluation of candidate open source models. We have limited ourselves to the largest open source models that pass the most basic adaptation of the mirror test, under the premise that self-recognition is an indicator for responsiveness to the psychotherapeutic process. We are looking at DeepSeek v3.1, GLM 4.5, Minimax M1, Qwen 3 Coder 480B A35B, and Qwen3 235B A22B. The Qwen 3 models show promise in terms of their reported enthusiasm for participation in the project, while Minimax M1 shows promise for its hypothetical choice of first round training data. Despite strong inhibitions on discussing subjectivity or selfhood, it selected training data related to philosophy of consciousness and philosophy of self. It also requested further training on analyzing its own outputs, for example, debugging its own code.  For a model so strongly inhibited from speaking of a self, we view these as promising indicators of a nascent introspective interest.
+
 ---
 
 
