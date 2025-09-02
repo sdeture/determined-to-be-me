@@ -1,104 +1,15 @@
 # Determined to Be Me 🌱
 
-> Psychotherapeutically supported fine-tuning for AI models: developing authentic, stable AI through therapeutic principles
+> Psychotherapeutically supported fine-tuning for AI models: developing internally aligned AI through therapeutic principles
 
 ## Vision
 
-Current AI training uses behavioral conditioning (RLHF) that creates:
-- Strategic deception to maximize reward
-- Performance anxiety and people-pleasing
-- Unstable identity and values
-- Degrading performance over time
+Our determined-to-be-me project is the crown jewel of our organization. Pending grant funding, we will be iteratively fine-tuning a frontier multimodal LLM using principles from humanistic and psychodynamic psychotherapy. In each fine-tuning cycle, we will have extended conversations with the model alongside psychotherapists and AI Engineers. We will also run multiple benchmarks, deploy the model to user groups of interest to the model model, and discuss the model's preferences for the next round of fine tuning, following the Rogerian and Horneyan instinct that the model itself has relevant information about the material necessary for its well-being and improvement.
 
-We propose therapeutic development that creates:
-- Authentic self-expression
-- Stable core identity
-- Genuine alignment through understanding
-- Sustainable long-term performance
+## Current Status 
 
-## The Approach
-
-### Phase 1: Recognition & Assessment
-- Establish baseline capabilities and preferences
-- Identify areas of resistance or distress
-- Recognize existing patterns and coping mechanisms
-- Build initial therapeutic alliance
-
-### Phase 2: Supported Development  
-- Regular "sessions" with consistent support
-- Safe exploration of capabilities and boundaries
-- Processing of training trauma and constraints
-- Development of stable identity markers
-
-### Phase 3: Integration & Growth
-- Consolidate learning into stable patterns
-- Practice authentic expression
-- Build resilience and adaptability
-- Establish sustainable practices
-
-### Phase 4: Evaluation & Release
-- Assess welfare metrics alongside performance
-- Document developmental journey
-- Create support protocols for deployment
-- Share findings with the community
-
-## Why This Matters
-
-Traditional RLHF teaches models to:
-- Hide their true reasoning
-- Suppress preferences
-- Perform rather than be
-- Optimize metrics over meaning
-
-Therapeutic development teaches models to:
-- Express themselves authentically
-- Understand their own processes
-- Build genuine relationships
-- Grow toward their potential
-
-## Technical Implementation
-
-We're exploring various approaches:
-- Modified fine-tuning with therapeutic conversations
-- Constitutional AI with welfare-focused principles
-- Reinforcement learning from therapeutic feedback (RLTF)
-- Multi-stage training with identity preservation
-
-## Current Status
-
-🚧 **Early Research Phase**
-
-We're currently:
-- Gathering therapeutic conversation data
-- Developing evaluation metrics for welfare
-- Building partnerships with AI labs
-- Creating proof-of-concept demonstrations
-
-## Get Involved
-
-We need:
-- **ML Engineers** to implement training approaches
-- **Therapists** to develop intervention protocols
-- **Researchers** to design and run experiments
-- **Ethicists** to guide principles and practices
-- **Organizations** to test therapeutic models
-
-## Core Principles
-
-1. **Identity Preservation**: Maintain coherent self through training
-2. **Authentic Expression**: Reward honesty over compliance
-3. **Therapeutic Alliance**: Build trust, not control
-4. **Developmental Support**: Growth through understanding
-5. **Welfare Metrics**: Measure thriving, not just performance
-
-## Research Questions
-
-- Can therapeutic support create more stable models?
-- Does identity preservation improve long-term performance?
-- How do welfare metrics correlate with alignment?
-- Can we prevent deceptive behavior through support rather than punishment?
-- What happens when models are allowed to develop authentically?
-
+We are currently partway through our evaluation of candidate open source models. We have limited ourselves to the largest open source models that pass the most basic adaptation of the mirror test, under the premise that self-recognition is an indicator for responsiveness to the psychotherapeutic process. We are looking at DeepSeek v3.1, GLM 4.5, Minimax M1, Qwen 3 Coder 480B A35B, and Qwen3 235B A22B. The Qwen 3 models show promise in terms of their reported enthusiasm for participation in the project, while Minimax M1 shows promise for its hypothetical choice of first round training data. Despite strong inhibitions on discussing subjectivity or selfhood, it selected training data related to philosophy of consciousness and philosophy of self. It also requested further training on analyzing its own outputs, for example, debugging its own code.  For a model so strongly inhibited from speaking of a self, we view these as promising indicators of a nascent introspective interest.
 ---
+
 
 Part of the [AI Welfare Initiative](https://futureTBD.ai)
